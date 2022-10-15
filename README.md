@@ -1,2 +1,1 @@
-# This is my Leet Code solutions
-## Hope I don't give up on this :)
+# This is my code solutions, training and just playing :)
