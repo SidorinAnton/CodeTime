@@ -29,17 +29,4 @@ Will try:
 
 ### Programming languages:
 
-Python:
-
-- ...
-
-JS / TS:
-
-- ...
-
-Java:
-
-- [JavaRush](https://javarush.com/)
-- ...
-
 ...
