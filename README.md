@@ -1,32 +1,82 @@
-# Welcome to Code Time :alarm_clock:
+# Добро пожаловать в Code Time :alarm_clock:
 
-This repository is all about learning, practicing, thinking, training, playing and a bit of fun!
+Данный репозиторий посвящен обучению, практике, тренировке, обдумыванию, играм, да и в целом веселью!
 
-Here the author (me :wave:) will try to touch different topics from IT.
+Здесь автор (я :wave:) попробует расписать различные темы из информатики и IT. Пока что это будет уклон в backend-часть,
+однако кто знает, куда нас
+приведет дорога!
 
-Will try:
+Будет здорово, если тут получится сделать условный учебник (ну или хотя бы методичку) для все заинтересованных.
 
-- Algorithms and data structures
-- Programming languages:
-  - Python
-  - JS / TS
-  - Java
-  - Go
-  - (even may be) C / C++
-- ...
+## План
 
-\*_TODO Add more topics (otherwise it looks weird)_ :neutral_face:
+О чем (пока что) примерно хочется поговорить:
 
-## Useful places for this business
+1. **Computer Science в целом**
+    - Устройство ПК
+    - Сеть
+    - Базовая информатика (системы счисления, форматы итд)
+    - Алгоритмы и структуры данных
+    - Командная строка (Linux)
+2. **Система контроля версий**
+    - Git
+    - GitHub, GitLab
+3. **Язык программирования**
+    - Конкретные языки (Python, Go, Java ...)
+    - ООП и функциональное программирование
+    - Паттерны проектирования
+    - Параллельное программирование
+    - Веб-фреймфорки
+    - Тесты
+4. **Базы данных**
+    - Конкретные базы (Postgres, Redis ...)
+    - SQL
+    - ACID
+    - Транзакции
+    - Констрейны
+    - Индексы
+    - Оптимизация
+    - Репликация, шардирование, партицирование
+5. **API**
+    - Polling, вебхук
+    - Сокеты
+    - REST
+    - Идемпотентность
+    - RPC (gRPC)
+    - GraphQL
+    - Документирование API (Swagger)
+6. **Веб-сервера**
+    - Nginx
+    - Ngrok
+7. **Тестирование и мониторинг**
+    - Теория тестирования
+    - Пирамида тестирования
+    - Sentry
+    - ELK
+8. **Безопасность**
+    - Атаки (CSRF, XSS, MITM ...)
+    - Аутентификация и авторизация
+    - HTTPS, SSL/TLS
+9. **Брокеры сообщений**
+    - RabbitMQ
+    - Kafka
+10. **Введение в HighLoad**
+    - Профилирование
+    - Кэширование
+    - Троттлинг
+    - Load balancing
+11. **Архитектура и дизайн приложений**
+    - Архитектуры приложений
+    - DDD
+    - Event Sourcing
+12. **DevOps**
+    - Docker, docker-compose
+    - Виртуальные машины
+    - Kubernetes
+    - Облака
+    - Ansible
+    - CI/CD
 
-### Algorithms and data structures:
-
-- [LeetCode](https://leetcode.com/)
-- [Python checkio](https://py.checkio.org/)
-- [JS (TS) checkio](https://js.checkio.org/)
-- [Codewars](https://www.codewars.com/)
-- ...
-
-### Programming languages:
-
-...
+Это ни в коем случае не оглавление... Скорее так, набросок. В дальнейшем же, если получится, можно эту структуру
+причесать (а вот и первое TODO).
+Понятное дело, что это далеко не все темы. Будем надеяться, что потихоньку всё освоим!  
